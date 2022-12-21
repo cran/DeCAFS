@@ -1,4 +1,4 @@
-370e449eb9bbc7c9f7aa8de9a75fb6ce *DESCRIPTION
+e8608f071999c8fb567f98bec0a76187 *DESCRIPTION
 71872bf0e289dce30946de103784499d *NAMESPACE
 1810a18ae0eddd0af2b84ea51dd2a5ad *R/DeCAFS.R
 52bf41d5bae66eedd350642c67df0055 *R/RcppExports.R
@@ -14,7 +14,7 @@ f3adca84384b195f39fab4613783ab83 *R/plot.R
 05638ae6c1e4ae00aa0d7d9b758ac1b4 *R/scenarioGenerator.R
 7b9e3368fa86c940d5318db7c9ab2e22 *R/zzz.R
 3761a38c6346408a950bf9cbc23351be *README.md
-97488377363f862e280a8254cecb3272 *build/partial.rdb
+0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
 6ee408051a0a727e63d6c4a5db78acee *data/oilWell.rda
 e403770c1e7d9f8400a6de47f8b07eac *man/DeCAFS.Rd
 af6bb640d74fecff625fe195f20277c0 *man/bestParameters.Rd
@@ -29,11 +29,11 @@ a9501c14e24079764daeafc3694f8e66 *man/guidedModelSelection.Rd
 acdb32feddf9e7f336ba5eab80f37f32 *man/plot.DeCAFSout.Rd
 19ac311078c01d5c35a0b7be2b7d6b52 *man/scenarioGenerator.Rd
 2ea30df53eb28a3c45a2c96550669843 *src/Makevars
-e8fa57c974b4a9a10501e98283d34085 *src/RcppExports.cpp
-0fa04a206199f7f896d0debb0f30162a *src/algorithms.cpp
-27070f1a5645d666025eeab3836d9886 *src/algorithms.h
+e7014dae06745ed407a12959c8c1f068 *src/RcppExports.cpp
+509dd816df3daed7e71e96683a41da2a *src/algorithms.cpp
+fe9e2c61686cd70a2308055f7eb60be4 *src/algorithms.h
 f00eaeb2f6c5703327259584495cf35b *src/fpop.cpp
-b9309210cb8993cf146ab095d2d0b71e *src/fpopmain.cpp
+ce39bea7efbf638306358f7f49591761 *src/fpopmain.cpp
 e963b7cb249095814e636038fb206fd7 *src/fpopmain.h
 e935aa71eba388f620e529e6a3301b5a *src/quadratic.cpp
 b9eabd237e9843ff709ae69e995864c3 *src/quadratic.h
