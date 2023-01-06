@@ -1,5 +1,6 @@
-e8608f071999c8fb567f98bec0a76187 *DESCRIPTION
+8f8a7f6ae7577e884cc2848f01f70a08 *DESCRIPTION
 71872bf0e289dce30946de103784499d *NAMESPACE
+39f730855180d1c2e06e0e5fd42da25a *NEWS.md
 1810a18ae0eddd0af2b84ea51dd2a5ad *R/DeCAFS.R
 52bf41d5bae66eedd350642c67df0055 *R/RcppExports.R
 0ef10444cb978ecf6af214a4e9bb5b07 *R/additional-estimators.R
@@ -13,7 +14,7 @@ ce539530b1fa89b8d23a16ef787b2856 *R/data.R
 f3adca84384b195f39fab4613783ab83 *R/plot.R
 05638ae6c1e4ae00aa0d7d9b758ac1b4 *R/scenarioGenerator.R
 7b9e3368fa86c940d5318db7c9ab2e22 *R/zzz.R
-3761a38c6346408a950bf9cbc23351be *README.md
+dadfd3bb2a1dbd1678b2873c160633bf *README.md
 0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
 6ee408051a0a727e63d6c4a5db78acee *data/oilWell.rda
 e403770c1e7d9f8400a6de47f8b07eac *man/DeCAFS.Rd
@@ -33,7 +34,7 @@ e7014dae06745ed407a12959c8c1f068 *src/RcppExports.cpp
 509dd816df3daed7e71e96683a41da2a *src/algorithms.cpp
 fe9e2c61686cd70a2308055f7eb60be4 *src/algorithms.h
 f00eaeb2f6c5703327259584495cf35b *src/fpop.cpp
-ce39bea7efbf638306358f7f49591761 *src/fpopmain.cpp
+bf9052f77c8f9454dfa82d3597ab7231 *src/fpopmain.cpp
 e963b7cb249095814e636038fb206fd7 *src/fpopmain.h
 e935aa71eba388f620e529e6a3301b5a *src/quadratic.cpp
 b9eabd237e9843ff709ae69e995864c3 *src/quadratic.h

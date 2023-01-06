@@ -1,8 +1,12 @@
+**IMPORTANT**: Older versions of DeCAFS have a major bug that severely affect the computational complexity of the procedure. This was fixed from version 3.3.2. Should you have an older version installed (lower than 3.3.2) please make sure you update your DeCAFS package either through CRAN or GitHub. You can check your version number at the bottom of the documentation page of DeCAFS, via `help("DeCAFS")`. 
+
+**WHAT'S NEW**: In addition to the automatic model selection, we introduced a graphical iterative model selection procedure that aids the user in selecting an appropriate model for a given sequence of observations. This tuning procedure can seriously improve performances under more challenging scenarios. More details can be found by checking the documentation: `help("guidedModelSelection")`. 
+
 ---
-title: "DeCAFS vignette"
+DeCAFS vignette
 ---
 
-
+`DeCAFS` is a `c++` implementation for `R` of the DeCAFS algorithm for performing optimal multiple changepoint detection on detecting the change in mean in presence of autocorrelation or random fluctuations in the data sequence.
 
 
 ## Installation and Requirements
@@ -37,8 +41,6 @@ The packages requires `Rcpp` with compiler support for the `std` library with th
 If any bug should be spotted, or for any information regarding this package, please email the package mantainer: `g` dot `romano` at `lancaster.ac.uk`.
 
 ## Introduction
-
-`DeCAFS` is a `c++` implementation for `R` of the DeCAFS algorithm for performing optimal multiple changepoint detection on detecting the change in mean in presence of autocorrelation or random fluctuations in the data sequence.
 
 
 ### The model
